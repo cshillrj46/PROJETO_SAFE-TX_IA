@@ -32,3 +32,11 @@
 # Clone the repo
 git clone https://github.com/cshillrj46/SafeTX-AI.git
 cd SafeTX-AI
+
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+
+cd safetx-dashboard
+npm install
+npm run dev
