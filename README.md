@@ -1,4 +1,6 @@
-![SafeTX Banner](SafeTX.png)
+<p align="center">
+  <img src="banner.png" alt="SafeTX Banner" width="600"/>
+</p>
 
 # In progress...
 # 🛡️ SafeTX — AI-powered Crypto Transaction Shield
