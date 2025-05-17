@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SAfeTX.png" alt="SafeTX Banner" width="600"/>
+  <img src="SafeTX.png" alt="SafeTX Banner" width="600"/>
 </p>
 
 <p align="center">
