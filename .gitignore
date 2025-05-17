@@ -24,10 +24,10 @@ venv/
 node_modules/
 dist/
 
-# React
-.safetx-dashboard/.next/
-.safetx-dashboard/out/
-.safetx-dashboard/.env.local
+# React build artifacts
+safetx-dashboard/.next/
+safetx-dashboard/out/
+safetx-dashboard/.env.local
 
-# OS files
+# OS-generated files
 Thumbs.db
