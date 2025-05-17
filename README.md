@@ -1,3 +1,4 @@
+# In progress...
 # 🛡️ SafeTX — AI-powered Crypto Transaction Shield
 
 **SafeTX** is a modern, AI-driven browser extension designed to protect crypto users from scams and malicious transactions in real time.  
