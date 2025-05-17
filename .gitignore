@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Editor configs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Database
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+
+# React
+.safetx-dashboard/.next/
+.safetx-dashboard/out/
+.safetx-dashboard/.env.local
+
+# OS files
+Thumbs.db
