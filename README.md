@@ -1,3 +1,5 @@
+![SafeTX Banner](SafeTX.png)
+
 # In progress...
 # 🛡️ SafeTX — AI-powered Crypto Transaction Shield
 
