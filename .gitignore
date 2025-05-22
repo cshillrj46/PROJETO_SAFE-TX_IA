@@ -32,3 +32,4 @@ safetx-dashboard/.env.local
 # OS-generated files
 Thumbs.db
 .idea/
+.idea/
