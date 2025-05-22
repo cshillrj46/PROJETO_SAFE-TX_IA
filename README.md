@@ -22,7 +22,7 @@ A smart and secure Web3 transaction analysis platform using Artificial Intellige
 
 | Layer        | Technology                    |
 |--------------|-------------------------------|
-| Frontend     | React, TypeScript, TailwindCSS |
+| Frontend     | React, TypeScript, TailwindCSS|
 | Backend      | FastAPI, SQLAlchemy, Uvicorn  |
 | AI Engine    | scikit-learn, SMOTE, joblib   |
 | Database     | SQLite                        |
