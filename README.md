@@ -1,9 +1,7 @@
-![SafeTX Banner](SafeTX.png)
-A smart and secure Web3 transaction analysis platform using Artificial Intelligence. Built to protect your crypto wallet and alert you of suspicious or high-risk activities in real time.
 <p align="center">
   <img src="./SafeTX.png" alt="SafeTX Banner" />
 </p>
-
+A smart and secure Web3 transaction analysis platform using Artificial Intelligence. Built to protect your crypto wallet and alert you of suspicious or high-risk activities in real time.
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
