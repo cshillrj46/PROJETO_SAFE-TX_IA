@@ -1,12 +1,5 @@
-# SafeTX-AI
-
+![SafeTX Banner](SafeTX.png)
 A smart and secure Web3 transaction analysis platform using Artificial Intelligence. Built to protect your crypto wallet and alert you of suspicious or high-risk activities in real time.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cshillrj46/SafeTX-AI/SafeTX.png"width="600"/>
-</p>
 
 ## 🚀 Features
 
