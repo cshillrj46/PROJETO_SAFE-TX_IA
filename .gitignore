@@ -33,3 +33,4 @@ safetx-dashboard/.env.local
 Thumbs.db
 .idea/
 .idea/
+safetx.db
