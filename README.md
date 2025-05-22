@@ -5,7 +5,7 @@ A smart and secure Web3 transaction analysis platform using Artificial Intellige
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cshillrj46/SafeTalk-AI/main/safeTX.svg"width="600"/>
+  <img src="https://raw.githubusercontent.com/cshillrj46/SafeTX-AI/main/SafeTX.svg"width="600"/>
 </p>
 
 ## 🚀 Features
